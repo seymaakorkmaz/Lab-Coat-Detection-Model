@@ -27,8 +27,8 @@ The script includes operations such as rotation, flipping, zooming, and contrast
 
 
 <div style="display: flex; justify-content: space-between;">
-    <img src="safe.png" alt="Safe" width="255" height="150">
-    <img src="unsafe.png" alt="Unsafe" width="255" height="150">
+    <img src="safe.png" alt="Safe" width="382.5" height="225">
+    <img src="unsafe.png" alt="Unsafe" width="382.5" height="225">
 </div>
 
 
