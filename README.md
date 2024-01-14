@@ -23,4 +23,6 @@ The script includes operations such as rotation, flipping, zooming, and contrast
 - Evaluates overlapping areas and security areas between two different groups of objects.
 - Plots the results on the screen and indicates safe and unsafe areas.
 
+## **utputs of the Model
+![Safe](safe.png)
 
