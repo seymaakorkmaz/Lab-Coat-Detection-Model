@@ -24,5 +24,11 @@ The script includes operations such as rotation, flipping, zooming, and contrast
 - Plots the results on the screen and indicates safe and unsafe areas.
 
 ## Outputs of the Model
-<img src="safe.png" alt="Safe" width="510" height="300">
+
+
+<div style="display: flex; justify-content: space-between;">
+    <img src="safe.png" alt="Safe" width="510" height="300">
+    <img src="unsafe.png" alt="Unsafe" width="510" height="300">
+</div>
+
 
