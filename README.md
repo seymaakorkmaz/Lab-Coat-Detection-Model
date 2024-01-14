@@ -24,5 +24,5 @@ The script includes operations such as rotation, flipping, zooming, and contrast
 - Plots the results on the screen and indicates safe and unsafe areas.
 
 ## **utputs of the Model
-![Safe](safe.png)
+<img src="safe.png" alt="Safe" width="200" height="200">
 
